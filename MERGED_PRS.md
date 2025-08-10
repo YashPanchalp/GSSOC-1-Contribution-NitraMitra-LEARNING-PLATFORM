@@ -6,6 +6,7 @@ This document lists all merged PRs with details: author, title, description (max
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
+| [#232](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232) | Readme update | [@Sejal-collection](https://github.com/Sejal-collection) | # 🔖 PR Title: Project Structure Refactor & README Enhancement ... | 40 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-10 | 5191 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232) |
 | [#216](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) | Added certificate styling and made it responsive | [@divyaHAVES00256](https://github.com/divyaHAVES00256) | ## 🔖 PR Title: <!-- "Fixed certificate page UI/UX" --> ... | 4 | enhancement, gssoc25, LEVEL 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-03 | 285 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) |
 | [#219](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/219) | Corrected hover zoom issue and title overlap on all cards | [@kunnal-singhh](https://github.com/kunnal-singhh) | ## 🔖 PR Title: Fixed AI summarizer card rendering, card ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-08 | 12 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/219) |
 | [#202](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/202) | added cgpa/sgpa calculator page and included infrastructure page  | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## 🔖 PR Title: Added SGPA/CGPA Calculator Page and adjusted ... | 5 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-31 | 726 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/202) |
@@ -53,7 +54,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#64](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/64) | [Feature]: Add PR Showcase Page with Contributors, GsSOC  | [@thilak-r](https://github.com/thilak-r) | ## 🔖 PR Title: [Feature]: Add PR Showcase Page with ... | 2 | gssoc25, frontend, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-24 | 694 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/64) |
 | [#55](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/55) | Create LICENSE | [@EammenShaik](https://github.com/EammenShaik) | 📜 Description This pull request adds the **MIT License** to ... | 1 | documentation, good first issue, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-24 | 21 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/55) |
 | [#46](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/46) | Added Flask backend for AI Chatbot (API-secure) | [@shoaib2000857](https://github.com/shoaib2000857) | ## 🔖 PR Title: <!-- A clear and concise title ... | 10 | gssoc25, backend, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-24 | 1136 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/46) |
-| [#30](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/30) | Improved README with full instructions for running project locally | [@Vidushi-15b](https://github.com/Vidushi-15b) | ## 🔖 PR Title: <!-- ��� Improved README.md with Complete ... | 1 | documentation, good first issue, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-23 | 55 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/30) |
+| [#30](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/30) | Improved README with full instructions for running project locally | [@Vidushi-15b](https://github.com/Vidushi-15b) | ## 🔖 PR Title: <!-- 📘 Improved README.md with Complete ... | 1 | documentation, good first issue, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-23 | 55 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/30) |
 | [#42](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/42) | Basic Assistant  | [@shoaib2000857](https://github.com/shoaib2000857) | ## 🔖 PR Title: Created a basic Js based chatbot ... | 5 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-23 | 1466 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/42) |
 | [#37](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/37) | Fix: UI issues in announcement and user experience tables (Closes #16, #17) | [@Triveni-Balekundri](https://github.com/Triveni-Balekundri) | 🔖 PR Title: Fix: UI issues in announcement and user ... | 4 | enhancement, gssoc25, LEVEL 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-23 | 661 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/37) |
 | [#25](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/25) | Enhancement/changed navbar and page layout | [@Nikita-Mishraa](https://github.com/Nikita-Mishraa) | ## 🔖 PR Title: Fixed navbar and page layout --- ... | 10 | good first issue, gssoc25, frontend, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-23 | 96 | 9 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/25) |
@@ -76,6 +77,61 @@ This document lists all merged PRs with details: author, title, description (max
 ---
 
 ## 📝 Detailed Merged PRs
+
+### [#232 Readme update](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232)
+
+- **Author:** [@Sejal-collection](https://github.com/Sejal-collection)
+- **Description:**  
+# 🔖 PR Title: Project Structure Refactor & README Enhancement ...
+- **Files Changed (40):**
+    - `README.md`
+  - `pages/404.html`
+  - `pages/SECURITY_IMPROVEMENTS.md`
+  - `pages/announcement-table.html`
+  - `pages/assistant/ASSISTANT_GUIDE.md`
+  - `pages/assistant/ASSISTANT_SETUP.md`
+  - `pages/assistant/assistant.css`
+  - `pages/assistant/assistant.html`
+  - `pages/assistant/assistant.js`
+  - `pages/certificate/certificate.css`
+  - `pages/certificate/certificate.html`
+  - `pages/certificate/certificate.js`
+  - `pages/cgpa-calculator.html`
+  - `pages/contact.css`
+  - `pages/contact.html`
+  - `pages/cursor.css`
+  - `pages/cursor.js`
+  - `pages/floating-button.css`
+  - `pages/floating-button.js`
+  - `pages/footer.css`
+  - `pages/gallery.html`
+  - `pages/gateway.html`
+  - `pages/infrastructure.html`
+  - `pages/paper.css`
+  - `pages/paper.html`
+  - `pages/pr-contribution/PR_DESCRIPTION_FINAL.md`
+  - `pages/pr-contribution/pr-contributor.css`
+  - `pages/pr-contribution/pr-contributors.html`
+  - `pages/privacy.css`
+  - `pages/privacy.html`
+  - `pages/quantum.html`
+  - `pages/resorces.html`
+  - `pages/subject.html`
+  - `pages/summary/summary.css`
+  - `pages/summary/summary.html`
+  - `pages/summary/summary.js`
+  - `pages/team.css`
+  - `pages/terms.html`
+  - `pages/test.html`
+  - `pages/user-experience-table.html`
+- **Labels:** None
+- **Merged By:** [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE)
+- **Merged At:** 2025-08-10 08:06:18
+- **Lines Updated:** 5191
+- **Commits:** 2
+- **PR Link:** [PR #232](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232)
+
+---
 
 ### [#216 Added certificate styling and made it responsive](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216)
 
@@ -1060,7 +1116,7 @@ This PR implements comprehensive content updates and structural enhancements acr
 
 - **Author:** [@Vidushi-15b](https://github.com/Vidushi-15b)
 - **Description:**  
-## 🔖 PR Title: <!-- ��� Improved README.md with Complete ...
+## 🔖 PR Title: <!-- 📘 Improved README.md with Complete ...
 - **Files Changed (1):**
     - `README.md`
 - **Labels:** `documentation`, `good first issue`, `gssoc25`, `level 1`
