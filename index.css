@@ -1096,12 +1096,14 @@ body.dark-mode .hero-section .btn:hover {
 
 /* Scale the entire card on hover */
 .card:hover {
+
   transform: scale(1.05); /* Added scale(1.05) to existing transform */
   box-shadow:
     0 0 15px var(--accent-color-dark),
     0 0 20px rgba(0, 0, 0, 0.5);
   z-index: 5; /* Ensure hovered card appears above others */
   transition: all 0.3s ease;
+
 }
 
 /* Scale the image itself on hover */
@@ -1110,11 +1112,13 @@ body.dark-mode .hero-section .btn:hover {
 }
 
 .card:hover .card-img-top {
+
   transform: scale(1.06); /* Scale image slightly larger on hover */
 }
 
 .card:hover .card-body {
   margin-top: 5%;
+
 }
 
 /* Ensure the overlay text appears smoothly */
@@ -1297,6 +1301,7 @@ body.dark-mode .facility-card p {
 }
 
 .About-card {
+
   width: 15rem;
   min-height: 400px;
   margin: 1rem;
@@ -1311,6 +1316,7 @@ body.dark-mode .facility-card p {
   box-shadow: 0 0 1rem var(--main-color);
   text-align: center;
   transition: transform 0.3s ease;
+
 }
 
 .About-card:hover {
@@ -1794,6 +1800,7 @@ footer .copyright {
     width: 100%;
     margin-bottom: 10px;
   }
+
 
   .header-right img {
     width: 100%;

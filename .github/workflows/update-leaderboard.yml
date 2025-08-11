@@ -7,8 +7,8 @@ on:
     types: [closed]
     branches: ["main"]
   schedule:
-    # Run every 10 minutes
-    - cron: '*/10 * * * *'
+    # Run every 12 am 
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
